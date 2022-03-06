@@ -1,0 +1,29 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 5px;
+}
+h2 {
+  font-size: 30px;
+  margin: 15px 5px 0 5px;
+}
+
+.app-section {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  margin: 50px 0 0 0;
+}
+.component-style {
+  display: flex;
+  flex-direction: row;
+}
+button {
+  width: 70px;
+  height: 30px;
+  color: #fff;
+  background-color: red;
+  border: none;
+  margin: 20px 5px 0 5px;
+  border-radius: 3px;
+}
